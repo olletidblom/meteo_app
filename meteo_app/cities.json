@@ -29,10 +29,10 @@
     {
         "name": "Kiruna",
         "temperature": 6.9000000953674316,
-        "windspeed": 28.399999618530273,
+        "windspeed": 29.200000762939453,
         "winddirection": 331,
         "is_day": true,
         "weathercode": 3,
-        "timestamp": 1758545574
+        "timestamp": 1758547037
     }
 ]
